@@ -1,2 +1,2 @@
 # site-dev
-opt-in landing page for tuka
+MVP prototype for tuka platform
